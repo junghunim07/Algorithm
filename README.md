@@ -16,6 +16,7 @@
 | 1110 | [더하기 사이클](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1110.%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4/%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4.java) |
 | 1157 | [단어 공부](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1157.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B3%B5%EB%B6%80/%EB%8B%A8%EC%96%B4%E2%80%85%EA%B3%B5%EB%B6%80.java) |
 | 1330 | [두 수 비교하기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1330.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.java) |
+| 1546 | [평균](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0/%ED%8F%89%EA%B7%A0.java) |
 | 2480 | [주사위 세개](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2480.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C/%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C.java) |
 | 2525 | [오븐 시계](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2525.%E2%80%85%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84/%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84.java) |
 | 2557 | [Hello World](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.java) |
