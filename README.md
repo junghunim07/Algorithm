@@ -106,6 +106,7 @@
 | 1931 | [회의실 배정](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95.java) |
 | 1965 | [상자넣기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1965.%E2%80%85%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0/%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.java) |
 | 2075 | [N번째 큰 수](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2075.%E2%80%85N%EB%B2%88%EC%A7%B8%E2%80%85%ED%81%B0%E2%80%85%EC%88%98/N%EB%B2%88%EC%A7%B8%E2%80%85%ED%81%B0%E2%80%85%EC%88%98.java) |
+| 2108 | [통계학](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2108.%E2%80%85%ED%86%B5%EA%B3%84%ED%95%99/%ED%86%B5%EA%B3%84%ED%95%99.java) |
 | 2477 | [참외밭](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2477.%E2%80%85%EC%B0%B8%EC%99%B8%EB%B0%AD/%EC%B0%B8%EC%99%B8%EB%B0%AD.java) |
 | 2563 | [색종이](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/%EC%83%89%EC%A2%85%EC%9D%B4.java) |
 | 2579 | [계단 오르기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0.java) |
