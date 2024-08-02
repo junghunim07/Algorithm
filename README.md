@@ -125,6 +125,7 @@
 | 9351 | [Casino](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/9351.%E2%80%85Casino/Casino.cc) |
 | 9461 | [파도반 수열](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/9461.%E2%80%85%ED%8C%8C%EB%8F%84%EB%B0%98%E2%80%85%EC%88%98%EC%97%B4/%ED%8C%8C%EB%8F%84%EB%B0%98%E2%80%85%EC%88%98%EC%97%B4.java) |
 | 10773 | [제로](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/10773.%E2%80%85%EC%A0%9C%EB%A1%9C/%EC%A0%9C%EB%A1%9C.java) |
+| 10828 | [스택](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D/%EC%8A%A4%ED%83%9D.java) |
 | 11047 | [동전 O](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850/%EB%8F%99%EC%A0%84%E2%80%850.java) |
 | 11726 | [2xn 타일링](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/2%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 | 25206 | [너의 평점은](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/25206.%E2%80%85%EB%84%88%EC%9D%98%E2%80%85%ED%8F%89%EC%A0%90%EC%9D%80/%EB%84%88%EC%9D%98%E2%80%85%ED%8F%89%EC%A0%90%EC%9D%80.java) |
