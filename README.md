@@ -112,6 +112,7 @@
 | 2477 | [참외밭](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2477.%E2%80%85%EC%B0%B8%EC%99%B8%EB%B0%AD/%EC%B0%B8%EC%99%B8%EB%B0%AD.java) |
 | 2563 | [색종이](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/%EC%83%89%EC%A2%85%EC%9D%B4.java) |
 | 2579 | [계단 오르기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0.java) |
+| 2606 | [바이러스](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.java) |
 | 2630 | [색종이 만들기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 | 2839 | [설탕배달](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC/%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC.java) |
 | 2941 | [크로아티아 알파벳](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3.java) |
