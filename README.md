@@ -65,6 +65,7 @@
 | 1074 | [Z](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z/Z.java) |
 | 1094 | [막대기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1094.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/%EB%A7%89%EB%8C%80%EA%B8%B0.java) |
 | 1120 | [문자열](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1120.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4.java) |
+| 1149 | [RGB거리](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1149.%E2%80%85RGB%EA%B1%B0%EB%A6%AC/RGB%EA%B1%B0%EB%A6%AC.java) |
 | 1158 | [요세푸스 문제](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1158.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C.java) |
 | 1166 | [선물](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1166.%E2%80%85%EC%84%A0%EB%AC%BC/%EC%84%A0%EB%AC%BC.java) |
 | 1181 | [단어 정렬](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC/%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC.java) |
