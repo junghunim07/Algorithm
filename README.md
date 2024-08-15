@@ -153,6 +153,7 @@
 | 2293 | [동전 1](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851/%EB%8F%99%EC%A0%84%E2%80%851.java) |
 | 2447 | [별 찍기 - 10](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/2447.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%8510/%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%8510.java) |
 | 7576 | [토마토](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/7576.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0/%ED%86%A0%EB%A7%88%ED%86%A0.java) |
+| 10026 | [적록색약](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.java) |
 | 10830 | [행렬 제곱](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/10830.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EC%A0%9C%EA%B3%B1/%ED%96%89%EB%A0%AC%E2%80%85%EC%A0%9C%EA%B3%B1.java) |
 | 11199 | [Bank Queue](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/11199.%E2%80%85Bank%E2%80%85Queue/Bank%E2%80%85Queue.cc) |
 | 11444 | [피보나치 수 6](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/11444.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%856/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%856.java) |
