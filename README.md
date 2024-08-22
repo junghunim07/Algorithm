@@ -63,6 +63,7 @@
 | 1065 | [한수](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98/%ED%95%9C%EC%88%98.java) |
 | 1072 | [게임](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1072.%E2%80%85%EA%B2%8C%EC%9E%84/%EA%B2%8C%EC%9E%84.java) |
 | 1074 | [Z](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z/Z.java) |
+| 1080 | [행렬](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1080.%E2%80%85%ED%96%89%EB%A0%AC/%ED%96%89%EB%A0%AC.java) |
 | 1094 | [막대기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1094.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/%EB%A7%89%EB%8C%80%EA%B8%B0.java) |
 | 1120 | [문자열](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1120.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4.java) |
 | 1149 | [RGB거리](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1149.%E2%80%85RGB%EA%B1%B0%EB%A6%AC/RGB%EA%B1%B0%EB%A6%AC.java) |
@@ -83,6 +84,7 @@
 | 1337 | [올바른 배열](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1337.%E2%80%85%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EB%B0%B0%EC%97%B4/%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EB%B0%B0%EC%97%B4.java) |
 | 1358 | [하키](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1358.%E2%80%85%ED%95%98%ED%82%A4/%ED%95%98%ED%82%A4.java) |
 | 1388 | [바닥 장식](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1388.%E2%80%85%EB%B0%94%EB%8B%A5%E2%80%85%EC%9E%A5%EC%8B%9D/%EB%B0%94%EB%8B%A5%E2%80%85%EC%9E%A5%EC%8B%9D.java) |
+| 1389 | [케빈 베이컨의 6단계 법칙](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99/%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99.java) |
 | 1431 | [시리얼 번호](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1431.%E2%80%85%EC%8B%9C%EB%A6%AC%EC%96%BC%E2%80%85%EB%B2%88%ED%98%B8/%EC%8B%9C%EB%A6%AC%EC%96%BC%E2%80%85%EB%B2%88%ED%98%B8.java) |
 | 1435 | [영화감독 숌](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C.java) |
 | 1448 | [삼각형 만들기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1448.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
@@ -108,6 +110,7 @@
 | 1904 | [01타일](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1904.%E2%80%8501%ED%83%80%EC%9D%BC/01%ED%83%80%EC%9D%BC.java) |
 | 1912 | [연속합](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9/%EC%97%B0%EC%86%8D%ED%95%A9.java) |
 | 1931 | [회의실 배정](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95.java) |
+| 1946 | [신입 사원](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1946.%E2%80%85%EC%8B%A0%EC%9E%85%E2%80%85%EC%82%AC%EC%9B%90/%EC%8B%A0%EC%9E%85%E2%80%85%EC%82%AC%EC%9B%90.java) |
 | 1965 | [상자넣기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1965.%E2%80%85%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0/%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.java) |
 | 1966 | [프린터 큐](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90/%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90.java) |
 | 2075 | [N번째 큰 수](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2075.%E2%80%85N%EB%B2%88%EC%A7%B8%E2%80%85%ED%81%B0%E2%80%85%EC%88%98/N%EB%B2%88%EC%A7%B8%E2%80%85%ED%81%B0%E2%80%85%EC%88%98.java) |
@@ -117,6 +120,7 @@
 | 2477 | [참외밭](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2477.%E2%80%85%EC%B0%B8%EC%99%B8%EB%B0%AD/%EC%B0%B8%EC%99%B8%EB%B0%AD.java) |
 | 2563 | [색종이](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/%EC%83%89%EC%A2%85%EC%9D%B4.java) |
 | 2579 | [계단 오르기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0.java) |
+| 2583 | [영역 구하기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
 | 2606 | [바이러스](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.java) |
 | 2630 | [색종이 만들기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 | 2667 | [단지번호붙이기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2667.%E2%80%85%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java) |
@@ -137,10 +141,13 @@
 | 10773 | [제로](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/10773.%E2%80%85%EC%A0%9C%EB%A1%9C/%EC%A0%9C%EB%A1%9C.java) |
 | 10828 | [스택](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D/%EC%8A%A4%ED%83%9D.java) |
 | 11047 | [동전 O](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850/%EB%8F%99%EC%A0%84%E2%80%850.java) |
+| 11430 | [경로 찾기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11403.%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0.java) |
+| 11660 | [구간 합 구하기 5](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11660.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%855/%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%855.java) |
 | 11724 | [연결요소 개수](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98.java) |
 | 11725 | [트리의 부모 찾기](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0/%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0.java) |
 | 11726 | [2xn 타일링](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/2%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 | 14501 | [퇴사](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/14501.%E2%80%85%ED%87%B4%EC%82%AC/%ED%87%B4%EC%82%AC.java) |
+| 16953 | [A->B](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/16953.%E2%80%85A%E2%80%85%E2%86%92%E2%80%85B/A%E2%80%85%E2%86%92%E2%80%85B.java) |
 | 25206 | [너의 평점은](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/25206.%E2%80%85%EB%84%88%EC%9D%98%E2%80%85%ED%8F%89%EC%A0%90%EC%9D%80/%EB%84%88%EC%9D%98%E2%80%85%ED%8F%89%EC%A0%90%EC%9D%80.java) |
 | 26286 | [Football](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/26286.%E2%80%85Football/Football.cc) |
 | 27446 | [랩실에서 잘 자요](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/27446.%E2%80%85%EB%9E%A9%EC%8B%A4%EC%97%90%EC%84%9C%E2%80%85%EC%9E%98%E2%80%85%EC%9E%90%EC%9A%94/%EB%9E%A9%EC%8B%A4%EC%97%90%EC%84%9C%E2%80%85%EC%9E%98%E2%80%85%EC%9E%90%EC%9A%94.cc) |
@@ -152,6 +159,7 @@
 |:---:|:---:|
 | 2293 | [동전 1](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851/%EB%8F%99%EC%A0%84%E2%80%851.java) |
 | 2447 | [별 찍기 - 10](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/2447.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%8510/%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%8510.java) |
+| 7569 | [토마토](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/7569.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0/%ED%86%A0%EB%A7%88%ED%86%A0.java) |
 | 7576 | [토마토](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/7576.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0/%ED%86%A0%EB%A7%88%ED%86%A0.java) |
 | 10026 | [적록색약](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.java) |
 | 10830 | [행렬 제곱](https://github.com/junghunim07/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/10830.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EC%A0%9C%EA%B3%B1/%ED%96%89%EB%A0%AC%E2%80%85%EC%A0%9C%EA%B3%B1.java) |
