@@ -1,73 +1,53 @@
-import java.io.*;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
-
-class Node {
-    int position;
-    int important;
-
-    Node(int position, int important) {
-        this.position = position;
-        this.important = important;
-    }
-}
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.*;
 
 public class Main {
 
     public static void main(String[] args) throws IOException {
-
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
 
-        int n = Integer.parseInt(br.readLine());
-        LinkedList<Node> queue = new LinkedList<>();
+        int tCase = Integer.parseInt(br.readLine());
 
-        for (int i = 0; i < n; i++) {
-            StringTokenizer st = new StringTokenizer(br.readLine());
+        for (int i=0; i<tCase; i++) {
+            st = new StringTokenizer(br.readLine());
 
             int N = Integer.parseInt(st.nextToken());
             int M = Integer.parseInt(st.nextToken());
 
+            Queue<int[]> q = new LinkedList<int[]>();
+
             st = new StringTokenizer(br.readLine());
 
-            for (int j = 0; j < N; j++) {
-                queue.add(new Node(j, Integer.parseInt(st.nextToken())));
+            for (int j=0; j<N; j++) {
+                int num = Integer.parseInt(st.nextToken());
+
+                q.add(new int[] {j, num});
             }
 
-            solve(queue, M);
-        }
-    }
+            int cnt = 0;
+            while (true) {
+                int[] cur = q.poll();
+                boolean chk = true;
 
-    static void solve(LinkedList<Node> queue, int M) {
-        int count = 0;
-
-        while (!queue.isEmpty()) {
-            Node front = queue.poll();
-            boolean isMax = true;
-
-            for (int i = 0; i < queue.size(); i++) {
-
-                if (front.important < queue.get(i).important) {
-                    queue.offer(front);
-
-                    for (int j = 0; j < i; j++) {
-                        queue.offer(queue.poll());
+                for (int[] curQ : q) {
+                    if (curQ[1] > cur[1]) {
+                        chk = false;
+                        break;
                     }
+                }
 
-                    isMax = false;
-                    break;
+                if (chk) {
+                    cnt++;
+                    if (cur[0] == M) break;
+                } else {
+                    q.add(cur);
                 }
             }
 
-            if (!isMax) {
-                continue;
-            }
-
-            count+=1;
-
-            if (front.position == M) {
-                System.out.println(count);
-            }
+            System.out.println(cnt);
         }
     }
 }
