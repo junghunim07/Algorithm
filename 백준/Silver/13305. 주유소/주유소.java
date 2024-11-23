@@ -28,8 +28,8 @@ public class Main {
         System.out.println(solve());
     }
 
-    static int solve() {
-        int pay = 0;
+    static long solve() {
+        long pay = 0;
         int minCost = gasStation[0];
 
         for (int i = 0; i < distance.length; i++) {
@@ -37,7 +37,7 @@ public class Main {
                 minCost = gasStation[i];
             }
 
-            pay += distance[i] * minCost;
+            pay += (long) distance[i] * minCost;
         }
 
         return pay;
