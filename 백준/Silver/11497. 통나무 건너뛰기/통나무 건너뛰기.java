@@ -29,16 +29,23 @@ public class Main {
     static int solution(int[] height) {
         int max = Integer.MIN_VALUE;
 
-        for (int i = 0; i < height.length - 2; i += 2) {
-            max = Math.max(max, Math.abs(height[i] - height[i + 2]));
-        }
+        max = loop(0, max, height);
+        max = loop(1, max, height);
 
-        for (int i = 1; i < height.length - 2; i += 2) {
-            max = Math.max(max, Math.abs(height[i] - height[i + 2]));
-        }
-
-        max = Math.max(max, Math.abs(height[height.length - 1] - height[height.length - 2]));
+        max = findMax(max, Math.abs(height[height.length - 1] - height[height.length - 2]));
 
         return max;
+    }
+
+    static int loop(int start, int max, int[] height) {
+        for (int i = start; i < height.length - 2; i += 2) {
+            max = findMax(max, Math.abs(height[i] - height[i + 2]));
+        }
+
+        return max;
+    }
+
+    static int findMax(int max, int target) {
+        return Math.max(max, target);
     }
 }
