@@ -39,3 +39,5 @@ jobs:
     - name: Push changes # 4) 메인에 푸시
       run: |
         git push
+      env: 
+        ACTIONS_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
