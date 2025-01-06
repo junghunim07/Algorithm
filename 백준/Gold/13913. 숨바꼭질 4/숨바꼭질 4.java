@@ -25,19 +25,7 @@ public class Main {
         } else {
             bfs();
             System.out.println(visited[K]);
-
-            Stack<Integer> stack = new Stack<>();
-            int index = K;
-
-            while (index != N) {
-                stack.push(index);
-                index = parent[index];
-            }
-
-            stack.push(index);
-            while (!stack.isEmpty()) {
-                System.out.print(stack.pop() + " ");
-            }
+            System.out.println(result());
         }
     }
 
@@ -63,6 +51,23 @@ public class Main {
                 }
             }
         }
+    }
+
+    static String result() {
+        Stack<Integer> stack = new Stack<>();
+        StringBuilder sb = new StringBuilder();
+        int index = K;
+
+        while (index != N) {
+            stack.push(index);
+            index = parent[index];
+        }
+        stack.push(index);
+
+        while (!stack.isEmpty()) {
+            sb.append(stack.pop()).append(" ");
+        }
+        return sb.toString();
     }
 
     static boolean validation(int target) {
