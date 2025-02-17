@@ -11,28 +11,30 @@ public class Main {
         int s = Integer.parseInt(br.readLine());
         String str = br.readLine();
 
-        System.out.println(include(str, makeFindString(n)));
+        System.out.println(include(str, n, s));
     }
 
-    static int include(String input, String target) {
-        int count = 0;
-        int index = 0;
+    static int include(String input, int count, int total) {
+        int result = 0;
+        int cnt = 0;
 
-        while ((index = input.indexOf(target, index)) != -1) {
-            count++;
-            index++;
+        for (int i = 1; i < total - 1;) {
+            if (input.charAt(i) == 'O' && input.charAt(i + 1)== 'I') {
+                cnt++;
+
+                if (cnt == count) {
+                    if (input.charAt(i - (cnt * 2 - 1)) == 'I') {
+                        result++;
+                    }
+                    cnt--;
+                }
+                i += 2;
+            } else {
+                cnt = 0;
+                i++;
+            }
         }
 
-        return count;
-    }
-
-    static String makeFindString(int cnt) {
-        StringBuilder prefix = new StringBuilder("I");
-
-        for (int i = 0; i < cnt; i++) {
-            prefix.append("OI");
-        }
-
-        return prefix.toString();
+        return result;
     }
 }
